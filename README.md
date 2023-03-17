@@ -52,9 +52,9 @@ We drew the 3D model in Rhino in different variations to test size and form. We 
 ![](https://i.imgur.com/AFMImWC.jpg)
 
 S T E P  · 2
-Thereafter the Rhino.3dm file is to be processed to CNC cut. Depending on the CNC macine used there are different ways to process the file. In this case we are using a ...... 
+Thereafter the Rhino.3dm file is to be processed to CNC cut. Depending on the CNC macine used there are different ways to process the file. In this case we are using a Raptor X SL.
 
-First choose all curves that will be cut (profiles) and carved(...) and Make 2d. 
+First choose all curves that will be cut (profiling) and outcuts (projecting) and Make 2d. 
 
 S T E P  · 3
 Choose which drill you want to use, where we in this case we used a 6mm downcut drill. We then set the parametres of speed and how much it will cut for every layer for the material used - 15 mm Plywood.  
@@ -71,7 +71,7 @@ To set up the CNC, first place the material and set your 'home' by moving the x 
 S T E P · 6 
 Import the CNC files made and start with adding marks for the screws. When this is done, move the CNC away from the material and screw the material to the table in the marks that have been made.
 
-Therafter start your file for ... and profiling. Stay with the machine until it is finished to make sure it cuts correctly and nothing goes wrong. 
+Therafter start your file for projecting and profiling. Stay with the machine until it is finished to make sure it cuts correctly and nothing goes wrong. 
 
 ![](https://i.imgur.com/tbwkvjV.jpg)
 
@@ -100,7 +100,7 @@ Design a simple flat pack divider in Rhino. Dimensions are fitting inside a stan
 ![](https://i.imgur.com/2x4kRsb.png)
 
 S T E P  · 2
-Cut out design in cardboard and slot them together. Here is the divider inside the bag with four sections.
+Cut out design in cardboard and slot them together. Here is the divider inside the bag with four sections. The aim is to see if this could work during the beach clean to start sorting while collecting, making the later process of sorting easier and giving more time to sort smaller pieces that are right now sorted directly to trash.
 
 ![](https://i.imgur.com/WiVUnIK.jpg)
 
