@@ -1,6 +1,3 @@
-# SeaPollution
-Micro Plastic Collection &amp; Sorting Tools
-
 ### M I C R O C H A L L E N G E ·  I I
 
 June Bascaran · Sami Piercy · Josephine Bourghardt
@@ -24,9 +21,17 @@ We want to create tools to collect and sort these smaller pieces. We would also 
 
 ### B R A I N S T O R M
 
-We started brainstorming ideas of how to collect and visualise the amount of microplastics collected. The tools can then be tested next time we go for the organised beach cleaning with Celan Beach Initiative Barcelona. 
+We started brainstorming ideas of how to collect and visualise the amount of microplastics collected. The tools can then be tested next time we go for the organised beach cleaning with Clean Beach Initiative Barcelona. 
 
-![](https://i.imgur.com/VJVPon4.jpg)
+
+
+![](https://i.imgur.com/odTwgaZ.jpg)
+
+
+![](https://i.imgur.com/1goDZ4o.jpg)
+
+
+
 
 
 
@@ -81,23 +86,78 @@ S T E P · 9
 To assemble, use the front lasercut part as a guide to cut the size of net that is preferred and cut around it. Place the cut out net into the bottom part and press it in place with the top. Right now the parts fit together and hold in place, if this form and tool works well when tested together with Clean Beach Initiative we will have to work on how tey will be attached with eachother.
 ![](https://i.imgur.com/FvSbJ7Z.jpg)
 
+### B A G : S O R T & S T O R E 
+
+
+- Cardboard sheet
+- Reusable bag
+
+
+We designed a simple divider to be used inside the bags for bigger items at the beach. Currently during the beach cleanup we fill the bags, and then separate them in the end. In having a divider, it would keep items more organized and help with the sorting process. It also keeps the bag balanced and easier to carry. 
+
+S T E P  · 1
+Design a simple flat pack divider in Rhino. Dimensions are fitting inside a standard reusable bag. With two slits, the two rectangles can be slotted together. We made one for four sections and one for six. 
+![](https://i.imgur.com/2x4kRsb.png)
+
+S T E P  · 2
+Cut out design in cardboard and slot them together. Here is the divider inside the bag with four sections.
+
+![](https://i.imgur.com/WiVUnIK.jpg)
+
+
+
+
+
+
 ### L A S E R C U T : S O R T & S T O R E 
+
 
 We made a series of boxes to contain the collected plastics, based on their size. The boxes are stackable and can be carried together or used separately. The base is used as a scale, where the collected material can be weighed. Each box has a different size mesh to sort 3 sizes of microplastics and waste from the beach. Together they display the collected amount of microplastics found at the beach, and with sorting allow possibility of using the plastics for another use. 
 
 - 3mm Acrylic
 - 4mm Plywood
-- 
+- 10mm Wood dowel
+- 3 sizes of mesh
+- 4 screws per box
+- 4 nut bolts per box
+
+S T E P  · 1
+We designed in Rhino the size, amount of boxes, and dimensions we wanted for our sorting boxes. We added keying features on the side so that the boxes could be easily carried with an inserted dowel rod. 
+
+
 ![](https://i.imgur.com/f5mNqVg.png)
+
+S T E P  · 2
+With the help of an online box generator, we used MakerCase to make sure the sides would interlock. After we modified their drawing to have holes on the bottom instead of the sides. 
+
+Here is the website: https://en.makercase.com/#/basicbox
+![](https://i.imgur.com/evTCwPd.jpg)
+
+
+S T E P  · 3
+We laser cut three of the boxes in acrylic, and one in wood. The wood box also had a hole in the front to be able to see the LCD screen.
+
+S T E P  · 4
+After assembling the acrylic and wood boxes, we attach the desired mesh. Each acrylic box has a wooden frame below it, trapping mesh inbetween the two layers. The wood frames can then be removed to replace or test different sizes of mesh. 
+
 
  <br>
   <br>
+  
 
 ![](https://i.imgur.com/4J50hEo.jpg)
 
 ![](https://i.imgur.com/gdxiZ2i.jpg)
 
+S T E P  · 5
+Next we connected the load cell to a piece of wood to create the scale. The load cell is drilled into a piece of wood and and a piece of acrylic on top. We used the negative cutouts of our box frames for these parts. 
+
+S T E P  · 6
+Last, we insert place all of the electronics into the wood box, attach the LCD screen, and secured the scale on top with screws from the bottom of the box. 
+
 ![](https://i.imgur.com/kvHnEPm.jpg)
+
+
 
 
 
@@ -289,5 +349,4 @@ https://www.taloselectronics.com/blogs/tutoriales/celda-de-carga-hx711
 https://blog.florianuhlemann.de/arduino-oled-128x64-display-ebay-china/
 
 https://openai.com/blog/chatgpt
-
 
