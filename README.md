@@ -322,11 +322,13 @@ We will bring these tools to the next Clean Beach Initiative to try them out tog
 We have worked together and collaboratively, sharing our knowledge and ideas. But our skills have been reflected in some moments of the project.
 
 Sami - Background in Industrial Design: Skills in having a more technical product vision and knowledge in the use of 2D modeling tools and laser cut. 
+(https://samipiercy.github.io/MDEF/term2/12-PrototypingforDesign/#micro-challenge-ii)
 
 June - Background in Industrial Design Engineering: Skills in having a more technical product vision and knowledge in the use of Arduino and electronics.
+(https://junebascaran.github.io/MDEF/term2/03-Prototyping%20for%20design/#microchallenge-ii)
 
 Josephine - Background in Product-furniture design. 3D and 2D modeling skills, production and project vision.
-
+(https://josephinebourghardt.github.io/MDEF/term2/09-Micro%20Challenge%20II/)
 <br>
 <br>
 
